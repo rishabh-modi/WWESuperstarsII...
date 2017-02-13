@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_stop"
+            android:icon="@mipmap/ic_not_interested_black_24dp"
+            android:title="Stop Music" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@mipmap/exit"
+            android:title="Exit" />
+
+    </group>
+
+
+
+</menu>
